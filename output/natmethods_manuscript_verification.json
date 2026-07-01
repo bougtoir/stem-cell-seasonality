@@ -1,0 +1,297 @@
+{
+  "manuscript": "NatMethods_Perspective_InvisibleVariables.docx",
+  "reference_count": 29,
+  "body_word_count": 3251,
+  "abstract_word_count": 120,
+  "body_within_limit": true,
+  "abstract_within_limit": true,
+  "figures": [
+    {
+      "figure": 1,
+      "status": "CITED",
+      "position": 13007
+    },
+    {
+      "figure": 2,
+      "status": "CITED",
+      "position": 19252
+    }
+  ],
+  "figures_sequential": true,
+  "citations": {
+    "unique_cited": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "uncited": [],
+    "over_range": [],
+    "out_of_order": [],
+    "issues": []
+  },
+  "references": [
+    {
+      "ref_num": 1,
+      "status": "VERIFIED",
+      "doi": "10.1016/j.stem.2025.01.003",
+      "crossref_title": "Pluripotent stem-cell-derived therapies in clinical trial: A 2025 update",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 2,
+      "status": "VERIFIED",
+      "doi": "10.1016/j.stem.2020.09.014",
+      "crossref_title": "Pluripotent Stem Cell-Based Cell Therapy\u2014Promise and Challenges",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 3,
+      "status": "VERIFIED",
+      "doi": "10.1016/j.stemcr.2018.08.013",
+      "crossref_title": "Reproducibility of Molecular Phenotypes after Long-Term Differentiation to\u00a0Human iPSC-Derived Neurons: A Multi-Site Omics Study",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 4,
+      "status": "VERIFIED",
+      "doi": "10.1242/dmm.042317",
+      "crossref_title": "Addressing variability in iPSC-derived models of human disease: guidelines to promote reproducibility",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 5,
+      "status": "VERIFIED",
+      "doi": "10.1016/j.gde.2017.07.004",
+      "crossref_title": "Variability of human pluripotent stem cell lines",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 6,
+      "status": "VERIFIED",
+      "doi": "10.1007/s10815-017-0947-x",
+      "crossref_title": "Volatile organic compounds and good laboratory practices in the in vitro fertilization laboratory: the important parameters for successful outcome in extended culture",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 7,
+      "status": "VERIFIED",
+      "doi": "10.1093/humrep/deaf008",
+      "crossref_title": "Real-time monitoring reveals the effects of low concentrations of volatile organic compounds in the embryology laboratory",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 8,
+      "status": "VERIFIED",
+      "doi": "10.1016/j.rbmo.2018.02.005",
+      "crossref_title": "Cairo consensus on the IVF laboratory environment and air quality: report of an expert meeting",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 9,
+      "status": "VERIFIED",
+      "doi": "10.1093/humrep/dead137",
+      "crossref_title": "Season at the time of oocyte collection and frozen embryo transfer outcomes",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 10,
+      "status": "VERIFIED",
+      "doi": "10.1007/s00484-025-02951-2",
+      "crossref_title": "The impact of season, temperature, and direct normal irradiance on IVF pregnancy outcomes: a retrospective cohort study",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 11,
+      "status": "LOW_MATCH",
+      "overlap": 0,
+      "detail": "Braga Jr & Borges, E"
+    },
+    {
+      "ref_num": 12,
+      "status": "VERIFIED",
+      "doi": "10.3389/fpubh.2025.1660982",
+      "crossref_title": "Association between season and pregnancy outcomes in fresh embryo transfer cycles: a systematic review and meta-analysis",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 13,
+      "status": "VERIFIED",
+      "doi": "10.1530/jrf.0.0940431",
+      "crossref_title": "Seasonal variation in cell cycle during early development of the mouse embryo",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 14,
+      "status": "VERIFIED",
+      "doi": "10.1101/2020.08.17.253492",
+      "crossref_title": "Human ES and iPS Cells Display Less Drug Resistance Than Differentiated Cells, and Na\u00efve-State Induction Further Decreases Drug Resistance",
+      "overlap": 0.94
+    },
+    {
+      "ref_num": 15,
+      "status": "VERIFIED",
+      "doi": "10.1101/2024.09.07.611779",
+      "crossref_title": "Mechano-osmotic signals control chromatin state and fate transitions in pluripotent stem cells",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 16,
+      "status": "VERIFIED",
+      "doi": "10.1002/advs.202307554",
+      "crossref_title": "Osmolar Modulation Drives Reversible Cell Cycle Exit and Human Pluripotent Cell Differentiation via NF\u2010\u03ba\u0412 and WNT Signaling",
+      "overlap": 0.93
+    },
+    {
+      "ref_num": 17,
+      "status": "VERIFIED",
+      "doi": "10.1016/j.celrep.2023.112590",
+      "crossref_title": "The circadian clock CRY1 regulates pluripotent stem cell identity and somatic cell reprogramming",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 18,
+      "status": "VERIFIED",
+      "doi": "10.26508/lsa.201900534",
+      "crossref_title": "BMAL1 coordinates energy metabolism and differentiation of pluripotent stem cells",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 19,
+      "status": "VERIFIED",
+      "doi": "10.1016/j.exphem.2019.08.008",
+      "crossref_title": "Daily light and darkness onset and circadian rhythms metabolically synchronize hematopoietic stem cell differentiation and maintenance: The role of bone marrow norepinephrine, tumor necrosis factor, and melatonin cycles",
+      "overlap": 0.93
+    },
+    {
+      "ref_num": 20,
+      "status": "VERIFIED",
+      "doi": "10.1016/j.reprotox.2020.07.010",
+      "crossref_title": "Fine particulate matter reduces the pluripotency and proliferation of human embryonic stem cells through ROS induced AKT and ERK signaling pathway",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 21,
+      "status": "VERIFIED",
+      "doi": "10.1016/j.mrgentox.2003.09.011",
+      "crossref_title": "Non-thermal effects of power-line magnetic fields (50Hz) on gene expression levels of pluripotent embryonic stem cells\u2014the role of tumour suppressor p53",
+      "overlap": 0.81
+    },
+    {
+      "ref_num": 22,
+      "status": "VERIFIED",
+      "doi": "10.1371/journal.pone.0236600",
+      "crossref_title": "The environmental risk assessment of cell-processing facilities for cell therapy in a Japanese academic institution",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 23,
+      "status": "VERIFIED",
+      "doi": "10.3389/fcell.2022.788808",
+      "crossref_title": "Toward Best Practices for Controlling Mammalian Cell Culture Environments",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 24,
+      "status": "VERIFIED",
+      "doi": "10.1007/s10517-022-05433-2",
+      "crossref_title": "About 4-Day Rhythm of Proliferative Activity of L-929 Cells in Culture Correlates with the Intensity of Secondary Cosmic Radiation Fluctuations",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 25,
+      "status": "VERIFIED",
+      "doi": "10.1093/nar/gks1193",
+      "crossref_title": "NCBI GEO: archive for functional genomics data sets\u2014update",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 26,
+      "status": "BOOK_SKIPPED",
+      "detail": "Mardia, K. V. & Jupp, P. E. Directional Statistics (Wiley, 2000)."
+    },
+    {
+      "ref_num": 27,
+      "status": "VERIFIED",
+      "doi": "10.1152/physrev.00039.2017",
+      "crossref_title": "Induced Pluripotent Stem Cells and Their Use in Human Models of Disease and Development",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 28,
+      "status": "VERIFIED",
+      "doi": "10.1007/s40778-022-00219-8",
+      "crossref_title": "Applying the Cytocentric Principles to Regenerative Medicine for Reproducibility",
+      "overlap": 1.0
+    },
+    {
+      "ref_num": 29,
+      "status": "VERIFIED",
+      "doi": "10.3389/fmedt.2023.1154653",
+      "crossref_title": "Cytocentric measurement for regenerative medicine",
+      "overlap": 1.0
+    }
+  ],
+  "files": [
+    {
+      "file": "NatMethods_Perspective_InvisibleVariables.docx",
+      "exists": true,
+      "size": 50512
+    },
+    {
+      "file": "NatMethods_Figure1.png",
+      "exists": true,
+      "size": 676841
+    },
+    {
+      "file": "NatMethods_Figure1.tiff",
+      "exists": true,
+      "size": 918920
+    },
+    {
+      "file": "NatMethods_Figure2.png",
+      "exists": true,
+      "size": 578064
+    },
+    {
+      "file": "NatMethods_Figure2.tiff",
+      "exists": true,
+      "size": 823486
+    },
+    {
+      "file": "NatMethods_Figures.pptx",
+      "exists": true,
+      "size": 1125748
+    },
+    {
+      "file": "NatMethods_Presubmission_Inquiry.docx",
+      "exists": true,
+      "size": 38006
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "generated": "2026-06-19T03:03:54.324252+00:00",
+  "figures": {
+    "in_body": [
+      1,
+      2
+    ],
+    "with_legends": [
+      1,
+      2
+    ],
+    "sequential": true
+  },
+  "tables": {
+    "in_body": []
+  },
+  "citations": {
+    "in_text_count": 26,
+    "reference_count": 26,
+    "unmatched": [],
+    "uncited": []
+  },
+  "reference_verification": [
+    {
+      "status": "VERIFIED",
+      "doi": "10.1016/j.stem.2024.12.005",
+      "crossref_title": "Pluripotent stem-cell-derived therapies in clinical trial: A 2025 update",
+      "key": "Kirkeby2025",
+      "cite": "Kirkeby et al., 2025",
+      "title": "Pluripotent stem-cell-derived therapies in clinical trial: a 2025 update"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1016/j.stem.2020.09.014",
+      "crossref_title": "Pluripotent Stem Cell-Based Cell Therapy—Promise and Challenges",
+      "key": "Yamanaka2020",
+      "cite": "Yamanaka, 2020",
+      "title": "Pluripotent stem cell-based cell therapy—promise and challenges"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1016/j.stemcr.2018.08.013",
+      "crossref_title": "Reproducibility of Molecular Phenotypes after Long-Term Differentiation to Human iPSC-Derived Neurons: A Multi-Site Omics Study",
+      "key": "Volpato2018",
+      "cite": "Volpato et al., 2018",
+      "title": "Reproducibility of molecular phenotypes after long-term differentiation to human iPSC-derived neurons: a multi-site omics study"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1242/dmm.042317",
+      "crossref_title": "Addressing variability in iPSC-derived models of human disease: guidelines to promote reproducibility",
+      "key": "VolpatoWebber2020",
+      "cite": "Volpato and Webber, 2020",
+      "title": "Addressing variability in iPSC-derived models of human disease: guidelines to promote reproducibility"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1016/j.gde.2017.07.004",
+      "crossref_title": "Variability of human pluripotent stem cell lines",
+      "key": "Ortmann2017",
+      "cite": "Ortmann and Vallier, 2017",
+      "title": "Variability of human pluripotent stem cell lines"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1093/humrep/deaf008",
+      "crossref_title": "Real-time monitoring reveals the effects of low concentrations of volatile organic compounds in the embryology laboratory",
+      "key": "Cai2025",
+      "cite": "Cai et al., 2025",
+      "title": "Real-time monitoring reveals the effects of low concentrations of volatile organic compounds in the embryology laboratory"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1007/s10815-017-0947-x",
+      "crossref_title": "Volatile organic compounds and good laboratory practices in the in vitro fertilization laboratory: the important parameters for successful outcome in extended culture",
+      "key": "Agarwal2017",
+      "cite": "Agarwal et al., 2017",
+      "title": "Volatile organic compounds and good laboratory practices in the in vitro fertilization laboratory: the important parameters for successful outcome in extended culture"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1101/2020.08.17.253492",
+      "crossref_title": "Human ES and iPS Cells Display Less Drug Resistance Than Differentiated Cells, and Naïve-State Induction Further Decreases Drug Resistance",
+      "key": "Panina2021",
+      "cite": "Panina et al., 2021",
+      "title": "Human ES and iPS cells display less drug resistance than differentiated cells, and naive-state induction further decreases drug resistance"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1101/2024.09.07.611779",
+      "crossref_title": "Mechano-osmotic signals control chromatin state and fate transitions in pluripotent stem cells",
+      "key": "McCreery2025",
+      "cite": "McCreery et al., 2025",
+      "title": "Mechano-osmotic signals control chromatin state and fate transitions in pluripotent stem cells"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1016/j.celrep.2023.112590",
+      "crossref_title": "The circadian clock CRY1 regulates pluripotent stem cell identity and somatic cell reprogramming",
+      "key": "Sato2023",
+      "cite": "Sato et al., 2023",
+      "title": "The circadian clock CRY1 regulates pluripotent stem cell identity and somatic cell reprogramming"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.26508/lsa.201900534",
+      "crossref_title": "BMAL1 coordinates energy metabolism and differentiation of pluripotent stem cells",
+      "key": "Ameneiro2020",
+      "cite": "Ameneiro et al., 2020",
+      "title": "BMAL1 coordinates energy metabolism and differentiation of pluripotent stem cells"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1016/j.stem.2018.08.002",
+      "crossref_title": "Daily Onset of Light and Darkness Differentially Controls Hematopoietic Stem Cell Differentiation and Maintenance",
+      "key": "Golan2019",
+      "cite": "Golan et al., 2019",
+      "title": "Daily light and darkness onset and circadian rhythms metabolically synchronize hematopoietic stem cell differentiation and maintenance"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1016/j.reprotox.2020.07.010",
+      "crossref_title": "Fine particulate matter reduces the pluripotency and proliferation of human embryonic stem cells through ROS induced AKT and ERK signaling pathway",
+      "key": "Bi2020",
+      "cite": "Bi et al., 2020",
+      "title": "Fine particulate matter reduces the pluripotency and proliferation of human embryonic stem cells through ROS induced AKT and ERK signaling pathway"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1002/advs.202307554",
+      "crossref_title": "Osmolar Modulation Drives Reversible Cell Cycle Exit and Human Pluripotent Cell Differentiation via NF‐κВ and WNT Signaling",
+      "key": "Chui2024",
+      "cite": "Chui et al., 2024",
+      "title": "Osmolar modulation drives reversible cell cycle exit and human pluripotent cell differentiation via NF-κB and WNT signaling"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1371/journal.pone.0236600",
+      "crossref_title": "The environmental risk assessment of cell-processing facilities for cell therapy in a Japanese academic institution",
+      "key": "Mizuno2020",
+      "cite": "Mizuno et al., 2020",
+      "title": "The environmental risk assessment of cell-processing facilities for cell therapy in a Japanese academic institution"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.3389/fcell.2022.788808",
+      "crossref_title": "Toward Best Practices for Controlling Mammalian Cell Culture Environments",
+      "key": "Klein2022",
+      "cite": "Klein et al., 2022",
+      "title": "Toward best practices for controlling mammalian cell culture environments"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1016/j.mrgentox.2003.09.011",
+      "crossref_title": "Non-thermal effects of power-line magnetic fields (50Hz) on gene expression levels of pluripotent embryonic stem cells—the role of tumour suppressor p53",
+      "key": "Czyz2004",
+      "cite": "Czyz et al., 2004",
+      "title": "Non-thermal effects of power-line magnetic fields (50 Hz) on gene expression levels of pluripotent embryonic stem cells"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1007/s10517-022-05433-2",
+      "crossref_title": "About 4-Day Rhythm of Proliferative Activity of L-929 Cells in Culture Correlates with the Intensity of Secondary Cosmic Radiation Fluctuations",
+      "key": "Diatroptova2022",
+      "cite": "Diatroptova et al., 2022",
+      "title": "About 4-day rhythm of proliferative activity of L-929 cells in culture correlates with the intensity of secondary cosmic radiation fluctuations"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1093/humrep/dead137",
+      "crossref_title": "Season at the time of oocyte collection and frozen embryo transfer outcomes",
+      "key": "Leathersich2023",
+      "cite": "Leathersich et al., 2023",
+      "title": "Season at the time of oocyte collection and frozen embryo transfer outcomes"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1007/s00484-025-02951-2",
+      "crossref_title": "The impact of season, temperature, and direct normal irradiance on IVF pregnancy outcomes: a retrospective cohort study",
+      "key": "Wang2025",
+      "cite": "Wang et al., 2025",
+      "title": "The impact of season, temperature, and direct normal irradiance on IVF pregnancy outcomes: a retrospective cohort study"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.5935/1518-0557.20250009",
+      "crossref_title": "Association between meteorological season and embryo quality in the era of morphokinetics",
+      "key": "Braga2025",
+      "cite": "Braga et al., 2025",
+      "title": "Association between meteorological season and embryo quality in the era of morphokinetics"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.3389/fpubh.2025.1660982",
+      "crossref_title": "Association between season and pregnancy outcomes in fresh embryo transfer cycles: a systematic review and meta-analysis",
+      "key": "Deng2025",
+      "cite": "Deng et al., 2025",
+      "title": "Association between season and pregnancy outcomes in fresh embryo transfer cycles: a systematic review and meta-analysis"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1530/jrf.0.0940431",
+      "crossref_title": "Seasonal variation in cell cycle during early development of the mouse embryo",
+      "key": "Wang1992",
+      "cite": "Wang et al., 1992",
+      "title": "Seasonal variation in cell cycle during early development of the mouse embryo"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1093/nar/gks1193",
+      "crossref_title": "NCBI GEO: archive for functional genomics data sets—update",
+      "key": "Barrett2013",
+      "cite": "Barrett et al., 2013",
+      "title": "NCBI GEO: archive for functional genomics data sets—update"
+    },
+    {
+      "status": "BOOK_SKIPPED",
+      "reason": "Book — manual verification needed",
+      "key": "MardiaJupp2000",
+      "cite": "Mardia and Jupp, 2000",
+      "title": "Directional Statistics"
+    },
+    {
+      "status": "VERIFIED",
+      "doi": "10.1152/physrev.00039.2017",
+      "crossref_title": "Induced Pluripotent Stem Cells and Their Use in Human Models of Disease and Development",
+      "key": "Karagiannis2019",
+      "cite": "Karagiannis et al., 2019",
+      "title": "Induced pluripotent stem cells and their use in human models of disease and development"
+    }
+  ],
+  "issues": [],
+  "summary": {
+    "critical": 0,
+    "warning": 0
+  }
+}
